@@ -1,6 +1,8 @@
  Hi there 👋 I Juno
 
-IT technician at Lenovo with hands-on experience in Linux systems, networking fundamentals, automation, and hardware diagnostics.
+ Located in the US
+
+I am an IT technician at Lenovo with hands-on experience in Linux systems, networking fundamentals, automation, and hardware diagnostics.
 
 I build and document real-world homelabs that mirror production environments.
 
